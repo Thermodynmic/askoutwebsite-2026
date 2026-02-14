@@ -135,7 +135,7 @@ Want to make it extra special with your own romantic song? Follow these steps to
    - Click the "..." (more options) button on your music file
    - Click "Copy URL"
    - Select "Copy Original URL with options"
-   - The URL should look like: `https://res.cloudinary.com/your-cloud-name/video/upload/v1234567890/your-file-name.mp3`
+   - The URL should look like: `https://res.cloudinary.com/dtgbnkveg/video/upload/v1771043689/02_Ivy_xlnaxw.mp3`
 
 4. **Add to Your Website:**
    - Open `config.js`
